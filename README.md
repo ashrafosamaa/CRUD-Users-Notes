@@ -1,6 +1,6 @@
 # CRUD-Users-Notes
 
-*using  Sequlize and express * 
+*using  Sequlize and express* 
 I created some APIs
 
 -user APIs-
